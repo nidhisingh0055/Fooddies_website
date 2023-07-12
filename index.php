@@ -19,24 +19,24 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/pngwing.png" alt="Delicious meal" width="1100" height="500">
+      <img src="images\bg3.jpg" alt="Delicious meal" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Delicious meal</h3>
         <p>Pizza,French Fries,Nuggets</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/pngwing1.png" alt="Soup" width="1100" height="500">
+      <img src="images\bg2.jpg" alt="Soup" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Soup</h3>
         <p>Vegetable Soup</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/pngwing5.png" alt="Burger" width="1100" height="500">
+      <img src="images\bg4.jpg" alt="Burger" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Burger</h3>
-        <p>Double patty-Harmburger</p>
+        <h3>Cake</h3>
+        <p>Ready to Eat</p>
       </div>   
     </div>
   </div>
@@ -59,17 +59,17 @@
           <img class="card-img-top" src="images/pngwing7.png" alt="Card image">
           <div class="card-body">
             <h4 class="card-title">Kebab</h4>
-            <p class="card-text">Rs.150</p>
+            <p class="card-text">Rs.149</p>
             <a href="#" class="btn btn-primary">Add to cart</a>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-12 ">
         <div class="card" >
-          <img class="card-img-top" src="images/pngwing7.png" alt="Card image">
+          <img class="card-img-top" src="images\pngwing11.png" alt="Card image">
           <div class="card-body">
-            <h4 class="card-title">Kebab</h4>
-            <p class="card-text">Rs.250</p>
+            <h4 class="card-title">Happy Meal</h4>
+            <p class="card-text">Rs.349</p>
             <a href="#" class="btn btn-primary">Add to cart</a>
           </div>
         </div>
@@ -79,7 +79,7 @@
           <img class="card-img-top" src="images/pngwing9.png" alt="Card image">
           <div class="card-body">
             <h4 class="card-title">Marghareta</h4>
-            <p class="card-text">Rs.260</p>
+            <p class="card-text">Rs.259</p>
             <a href="#" class="btn btn-primary">Add to cart</a>
           </div>
         </div>
@@ -97,27 +97,27 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/pngwing1.png" class="img-fluid pb-4">
+        <img src="images\sweet.jpg" class="img-fluid pb-4">
         <h4 class="card-title" align="Center">Sweets</h4>
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/pngwing1.png" class="img-fluid pb-4">
+        <img src="images\namkeen.jpg" class="img-fluid pb-4">
         <h4 class="card-title" align="Center">Namkeen</h4>
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/pngwing1.png" class="img-fluid pb-4">
+        <img src="images\bev.jpg" class="img-fluid pb-4">
         <h4 class="card-title" align="Center">Beverages</h4>
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/pngwing1.png" class="img-fluid pb-4">
+        <img src="images\cookies.jpg" class="img-fluid pb-4">
         <h4 class="card-title" align="Center">Cookies</h4>
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/pngwing1.png" class="img-fluid pb-4">
+        <img src="images\eat.jpg" class="img-fluid pb-4">
         <h4 class="card-title" align="Center">Ready To Eat</h4>
       </div>
       <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/pngwing1.png" class="img-fluid pb-4">
+        <img src="images\gift.jpg" class="img-fluid pb-4">
         <h4 class="card-title" align="Center">Gift Boxes</h4>
       </div>
 
@@ -133,30 +133,30 @@
     <div class="row">
       <div class="col-lg-4 col-md-4 col-12 ">
         <div class="card" >
-          <img class="card-img-top" src="images/pngwing7.png" alt="Card image">
+          <img class="card-img-top" src="images\idli.jpeg" alt="Card image">
           <div class="card-body">
-            <h4 class="card-title">Kebab</h4>
-            <p class="card-text">Rs.150</p>
+            <h4 class="card-title">Idli Wada</h4>
+            <p class="card-text">Rs.129</p>
             <a href="#" class="btn btn-primary">Add to cart</a>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-12 ">
         <div class="card" >
-          <img class="card-img-top" src="images/pngwing7.png" alt="Card image">
+          <img class="card-img-top" src="images\sambar.jpg" alt="Card image">
           <div class="card-body">
-            <h4 class="card-title">Kebab</h4>
-            <p class="card-text">Rs.250</p>
+            <h4 class="card-title">Sambar Wada</h4>
+            <p class="card-text">Rs.119</p>
             <a href="#" class="btn btn-primary">Add to cart</a>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-12 ">
         <div class="card" >
-          <img class="card-img-top" src="images/pngwing9.png" alt="Card image">
+          <img class="card-img-top" src="images\Rava-Uttapam.jpg" alt="Card image">
           <div class="card-body">
-            <h4 class="card-title">Marghareta</h4>
-            <p class="card-text">Rs.260</p>
+            <h4 class="card-title">Rava-Uttapam</h4>
+            <p class="card-text">Rs.149</p>
             <a href="#" class="btn btn-primary">Add to cart</a>
           </div>
         </div>
@@ -172,11 +172,14 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-12">
-        <img src="images/pngwing6.png" class="img-fluid aboutimg">
+        <img src="images/pngwing3.png" class="img-fluid aboutimg" >
       </div>
       <div class="col-lg-6 col-md-6 col-12">
       <h2 class="display-4">About Us</h2>
       <p class="py-3 aboutpara">Over the course of eight decades, a lot has changed about us. We have relocated, undergone expansion, developed new product lines & added segments, opened retail chains & stores across India and embraced new markets overseas.
+      One thing hasn’t changed - we’re still a tight-knit family business, committed to serving the most authentic taste of India through our products.
+      Our origins can be traced back to a small namkeen shop in Bikaner founded by Ganga Bishan Agarwal (Haldiram Ji). This modest shop quickly gained popularity and scaled up to meet a booming demand for its unique-tasting bhujia. Building on this legacy, his grandson, our pioneer Mr. Shiv Kishan Agrawal steered the business towards the heights it has tasted today.
+      <br>
       One thing hasn’t changed - we’re still a tight-knit family business, committed to serving the most authentic taste of India through our products.
       Our origins can be traced back to a small namkeen shop in Bikaner founded by Ganga Bishan Agarwal (Haldiram Ji). This modest shop quickly gained popularity and scaled up to meet a booming demand for its unique-tasting bhujia. Building on this legacy, his grandson, our pioneer Mr. Shiv Kishan Agrawal steered the business towards the heights it has tasted today.</p>
       <a href="about.php" class="btn btn-success"> Explore More</a>

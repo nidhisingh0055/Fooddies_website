@@ -6,10 +6,34 @@
  }
 
  .aboutimg{
- 	width: 100%;
- 	height: 300px!important;
+	width: 80%;
+    height: 512px!important;
+    padding-left: 0px;
  }
 
- .aboutpara{
- 	font-style: ;
+ .carousel-caption{
+	color: black!important;
  }
+ 
+ .carousel-inner img {
+    width: 100%;
+    height: 560px;
+}
+ 
+.card:hover {
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.img-fluid:hover {
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	
+}
+
+.pb-3, .py-3 {
+	text-align: justify!important; 
+}
+
+
+ /*.aboutpara{
+ 	font-style: ;
+ }*/
